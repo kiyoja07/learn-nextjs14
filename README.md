@@ -1,1 +1,1 @@
-#2.2 Not Found Routes
+#2.3 SSR vs CSR
