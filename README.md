@@ -1,1 +1,1 @@
-#2.6 Recap
+#2.7 Layouts
