@@ -1,1 +1,1 @@
-#2.3 SSR vs CSR
+#2.6 Recap
